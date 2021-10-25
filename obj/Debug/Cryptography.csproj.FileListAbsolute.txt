@@ -1,0 +1,29 @@
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\bin\Debug\Cryptography.exe.config
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\bin\Debug\Cryptography.exe
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\bin\Debug\Cryptography.pdb
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.Form1.resources
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.Cache
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.exe
+c:\users\azat\documents\visual studio 2015\Projects\Cryptography\obj\Debug\Cryptography.pdb
+C:\Users\Lenovo\Desktop\Cryptography\bin\Debug\Cryptography.exe.config
+C:\Users\Lenovo\Desktop\Cryptography\bin\Debug\Cryptography.exe
+C:\Users\Lenovo\Desktop\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.Form1.resources
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.exe
+C:\Users\Lenovo\Desktop\Cryptography\obj\Debug\Cryptography.pdb
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\bin\Debug\Cryptography.exe.config
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\bin\Debug\Cryptography.exe
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\bin\Debug\Cryptography.pdb
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.Form1.resources
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.exe
+C:\Users\Lenovo\Desktop\Работа Kaznu\Безопасность программного обеспечения\Cryptography\obj\Debug\Cryptography.pdb
